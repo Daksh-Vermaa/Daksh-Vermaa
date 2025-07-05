@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ Building a shell emulator so good, even Bash is nervous.  <br>🤝 Happy to collaborate — especially if I can just pretend I helped.  <br>🎮 Learning SDL — because pixels won’t draw themselves.  <br>❓ Ask me about nothing. Seriously.  <br>🧠 Fun fact: Always remember one thing — remembering two is hard.<br>
+🖥️ Building a shell emulator so good, even Bash is nervous.  <br>🤝 Happy to collaborate — especially if I can just pretend I helped.  <br>🎮 Learning SDL — because pixels won’t draw themselves.  <br>❓ Ask me about nothing. Seriously.  <br>🧠 Fun fact: Spiders are the only web designers that are happy when they get a bug.<br>
 
 
 ## 🌐 Socials:
