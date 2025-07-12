@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=500&amp;size=30&amp;letterSpacing=1px&amp;duration=3000&amp;pause=1000&amp;color=4C6BF7&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=80&amp;lines=Hello+There!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Daksh+Verma!;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=500&amp;size=30&amp;letterSpacing=1px&amp;duration=3000&amp;pause=1000&amp;color=36BCF7&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=80&amp;lines=Hello+There!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Daksh+Verma!;" />
 </h1 align="center">
 
 
