@@ -1,5 +1,9 @@
 <p><img align="right" src="https://komarev.com/ghpvc/?username=DOCDOOOOM&color=blue&style=plastic" /></p>
 
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=500&amp;size=30&amp;letterSpacing=1px&amp;duration=3000&amp;pause=1000&amp;color=4C6BF7&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=80&amp;lines=Hello+There!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Daksh+Verma!;" />
+</h1 align="center">
+
 <p><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=500&amp;size=30&amp;letterSpacing=1px&amp;duration=3000&amp;pause=1000&amp;color=4C6BF7&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=80&amp;lines=Hello+There!+%F0%9F%91%8B%F0%9F%8F%BB;I+am+Daksh+Verma!+" alt="Typing SVG"></a></p>
 <p><br><br></p>
 <h1 id="-about-me-">💫 About Me:</h1>
