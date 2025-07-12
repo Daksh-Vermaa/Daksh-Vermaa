@@ -33,7 +33,7 @@
 
 <h1 id="-tech-stack-">💻 Tech Stack:</h1>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,powershell" />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,powershell" /><br>
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,python,javascript" /><br>
 </div>
 
