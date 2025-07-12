@@ -38,12 +38,17 @@
 </div>
 
 
-<h1 id="-github-stats-">📊 GitHub Stats:</h1>
-<p><img src="https://github-readme-stats.vercel.app/api?username=DOCDOOOOM&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
-<br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=DOCDOOOOM&amp;theme=dark&amp;hide_border=false" alt="">
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOCDOOOOM&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt=""></p>
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=DOCDOOOOM&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="DOCDOOOOM's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=DOCDOOOOM&theme=transparent&count_private=true&border_radius=10&locale=en" alt="DOCDOOOOM's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=DOCDOOOOM&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="DOCDOOOOM's Most Used Languages" />
+</div>
+
+<hr>
 
 
 <h2 id="-github-trophies">🏆 GitHub Trophies</h2>
