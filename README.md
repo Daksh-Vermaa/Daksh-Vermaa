@@ -58,5 +58,17 @@
 <hr>
 <p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=DOCDOOOOM&amp;icon=5&amp;color=1" alt=""></a></p>
 
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{Daksh-Vermaa}/{Daksh-Vermaa}/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{Daksh-Vermaa}/{Daksh-Vermaa}/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/{Daksh-Vermaa}/{Daksh-Vermaa}/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>
+
 
 *Updated - 2025-July-13*
