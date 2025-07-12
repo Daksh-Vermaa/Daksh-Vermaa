@@ -10,7 +10,7 @@
 # 💻 Tech Stack:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,powershell" />
-    <img src="https://skillicons.dev/icons?i=c,c++,c#,python,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,python,javascript" /><br>
 </div>
 
 # 📊 GitHub Stats:
