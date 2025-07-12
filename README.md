@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&letterSpacing=1px&duration=3000&pause=1000&color=4C6BF7&center=true&vCenter=true&width=435&height=100&lines=Hello+There!+%F0%9F%91%8B%F0%9F%8F%BB;I+am+Daksh+Verma!+)](https://git.io/typing-svg)
+
 # 💫 About Me:
 🖥️ Building a shell emulator so good, even Bash is nervous.  <br>🤝 Happy to collaborate — especially if I can just pretend I helped.  <br>🎮 Learning SDL — because pixels won’t draw themselves.  <br>❓ Ask me about nothing. Seriously.  <br>🧠 Fun fact: Spiders are the only web designers that are happy when they get a bug.<br>
 
