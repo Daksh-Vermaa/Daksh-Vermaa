@@ -1,46 +1,39 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=DOCDOOOOM&color=blue&style=plastic" />
+<p><img align="right" src="https://komarev.com/ghpvc/?username=DOCDOOOOM&color=blue&style=plastic" /></p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&letterSpacing=1px&duration=3000&pause=1000&color=4C6BF7&center=true&vCenter=true&width=500&height=80&lines=Hello+There!+%F0%9F%91%8B%F0%9F%8F%BB;I+am+Daksh+Verma!+)](https://git.io/typing-svg)
-
-<br><br>
-
-# 💫 About Me:
-- 📫 I'm a 1st year student at **EIT, FARIDABAD**.
-- 🌏 I'm living now in **Delhi, India**
-- 🖥️ Building a **shell emulator** so good, even Bash is nervous.
-- 🤝 Happy to collaborate — especially if I can just pretend I helped.
-- 🎮 **Learning SDL** — because pixels won’t draw themselves.
-- ❓ Ask me about **Nothing**. Seriously
-- 🧠 Fun fact: Spiders are the only web designers that are happy when they get a bug. ◑﹏◐
-
-<br><br>
-
-## 🌐 Connect With ME:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dumb.drixx).
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daksh-verma-76b865372).
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Positive-Direction66).
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DakshVermaaaaa).
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dakshr117@gmail.com) 
-
-# 💻 Tech Stack:
+<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=500&amp;size=30&amp;letterSpacing=1px&amp;duration=3000&amp;pause=1000&amp;color=4C6BF7&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=80&amp;lines=Hello+There!+%F0%9F%91%8B%F0%9F%8F%BB;I+am+Daksh+Verma!+" alt="Typing SVG"></a></p>
+<p><br><br></p>
+<h1 id="-about-me-">💫 About Me:</h1>
+<ul>
+<li>📫 I&#39;m a 1st year student at <strong>EIT, FARIDABAD</strong>.</li>
+<li>🌏 I&#39;m living now in <strong>Delhi, India</strong></li>
+<li>🖥️ Building a <strong>shell emulator</strong> so good, even Bash is nervous.</li>
+<li>🤝 Happy to collaborate — especially if I can just pretend I helped.</li>
+<li>🎮 <strong>Learning SDL</strong> — because pixels won’t draw themselves.</li>
+<li>❓ Ask me about <strong>Nothing</strong>. Seriously</li>
+<li>🧠 Fun fact: Spiders are the only web designers that are happy when they get a bug. ◑﹏◐</li>
+</ul>
+<p><br><br></p>
+<h2 id="-connect-with-me-">🌐 Connect With ME:</h2>
+<p><a href="https://instagram.com/dumb.drixx"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" alt="Instagram"></a>.
+<a href="https://linkedin.com/in/daksh-verma-76b865372"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>.
+<a href="https://reddit.com/user/Positive-Direction66"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&amp;logoColor=white" alt="Reddit"></a>.
+<a href="https://x.com/DakshVermaaaaa"><img src="https://img.shields.io/badge/X-black.svg?logo=X&amp;logoColor=white" alt="X"></a>.
+<a href="mailto:dakshr117@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&amp;logoColor=white" alt="email"></a> </p>
+<h1 id="-tech-stack-">💻 Tech Stack:</h1>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,powershell" />
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,python,javascript" /><br>
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DOCDOOOOM&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<h1 id="-github-stats-">📊 GitHub Stats:</h1>
+<p><img src="https://github-readme-stats.vercel.app/api?username=DOCDOOOOM&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
 <br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DOCDOOOOM&theme=dark&hide_border=false)
+<img src="https://nirzak-streak-stats.vercel.app/?user=DOCDOOOOM&amp;theme=dark&amp;hide_border=false" alt="">
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DOCDOOOOM&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DOCDOOOOM&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DOCDOOOOM&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=DOCDOOOOM&icon=5&color=1)](https://visitcount.itsvg.in)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOCDOOOOM&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt=""></p>
+<h2 id="-github-trophies">🏆 GitHub Trophies</h2>
+<p><img src="https://github-profile-trophy.vercel.app/?username=DOCDOOOOM&amp;theme=radical&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4" alt=""></p>
+<h3 id="-top-contributed-repo">🔝 Top Contributed Repo</h3>
+<p><img src="https://github-contributor-stats.vercel.app/api?username=DOCDOOOOM&amp;limit=5&amp;theme=dark&amp;combine_all_yearly_contributions=true" alt=""></p>
+<hr>
+<p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=DOCDOOOOM&amp;icon=5&amp;color=1" alt=""></a></p>
