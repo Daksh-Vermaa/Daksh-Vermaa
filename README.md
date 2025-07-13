@@ -1,4 +1,4 @@
-<p><img align="right" src="https://komarev.com/ghpvc/?username=DOCDOOOOM&color=blue&style=plastic" /></p>
+<p><img align="right" src="https://komarev.com/ghpvc/?username=Daksh-Vermaa&color=blue&style=plastic" /></p>
 
 
 <h1 align="center">
@@ -44,20 +44,20 @@
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=DOCDOOOOM&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="DOCDOOOOM's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=DOCDOOOOM&theme=transparent&count_private=true&border_radius=10&locale=en" alt="DOCDOOOOM's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=DOCDOOOOM&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="DOCDOOOOM's Most Used Languages" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Daksh-Vermaa&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Daksh-Vermaa's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Daksh-Vermaa&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Daksh-Vermaa's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Daksh-Vermaa&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Daksh-Vermaa's Most Used Languages" />
 </div>
 
 <hr>
 
 
 <h1 id="-github-trophies">🏆 GitHub Trophies</h1>
-<p><img src="https://github-profile-trophy.vercel.app/?username=DOCDOOOOM&amp;theme=radical&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4" alt=""></p>
+<p><img src="https://github-profile-trophy.vercel.app/?username=Daksh-Vermaa&amp;theme=radical&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4" alt=""></p>
 <h3 id="-top-contributed-repo">🔝 Top Contributed Repo</h3>
-<p><img src="https://github-contributor-stats.vercel.app/api?username=DOCDOOOOM&amp;limit=5&amp;theme=dark&amp;combine_all_yearly_contributions=true" alt=""></p>
+<p><img src="https://github-contributor-stats.vercel.app/api?username=Daksh-Vermaa&amp;limit=5&amp;theme=dark&amp;combine_all_yearly_contributions=true" alt=""></p>
 <hr>
-<p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=DOCDOOOOM&amp;icon=5&amp;color=1" alt=""></a></p>
+<p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Daksh-Vermaa&amp;icon=5&amp;color=1" alt=""></a></p>
 
 
 <h1 id="Contributions">🐍 My Contributions</h1>
