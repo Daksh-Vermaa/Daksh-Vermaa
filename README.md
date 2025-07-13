@@ -21,7 +21,7 @@
 
     
 <p><br><br></p>
-<h2 id="-connect-with-me-">🌐 Connect With ME:</h2>
+<h1 id="-connect-with-me-">🌐 Connect With ME:</h1>
 <div align="center">
 <p><a href="https://instagram.com/dumb.drixx"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" alt="Instagram"></a>.
 <a href="https://linkedin.com/in/daksh-verma-76b865372"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>.
@@ -38,7 +38,8 @@
 </div>
 
 
-## ⚡️ Stats
+  
+<h1 id="Stats">⚡️ Stats</h1>
 
 <br>
 
@@ -51,14 +52,15 @@
 <hr>
 
 
-<h2 id="-github-trophies">🏆 GitHub Trophies</h2>
+<h1 id="-github-trophies">🏆 GitHub Trophies</h1>
 <p><img src="https://github-profile-trophy.vercel.app/?username=DOCDOOOOM&amp;theme=radical&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4" alt=""></p>
 <h3 id="-top-contributed-repo">🔝 Top Contributed Repo</h3>
 <p><img src="https://github-contributor-stats.vercel.app/api?username=DOCDOOOOM&amp;limit=5&amp;theme=dark&amp;combine_all_yearly_contributions=true" alt=""></p>
 <hr>
 <p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=DOCDOOOOM&amp;icon=5&amp;color=1" alt=""></a></p>
 
-## 🐍 My Contributions
+
+<h1 id="Contributions">🐍 My Contributions</h1>
 
 ![snake gif](https://github.com/Daksh-Vermaa/Daksh-Vermaa/blob/output/github-snake-dark.svg)
 
