@@ -60,9 +60,9 @@
 
 ## 🐍 My Contributions
 
-<div align="center">
+
 ![snake gif](https://github.com/Daksh-Vermaa/Daksh-Vermaa/blob/output/github-snake-dark.svg)
-</div>
+
 
 <hr>
 
