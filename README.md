@@ -59,10 +59,13 @@
 <p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=DOCDOOOOM&amp;icon=5&amp;color=1" alt=""></a></p>
 
 ## 🐍 My Contributions
-
-
-![snake gif](https://github.com/Daksh-Vermaa/Daksh-Vermaa/blob/output/github-snake-dark.svg)
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 <hr>
 
