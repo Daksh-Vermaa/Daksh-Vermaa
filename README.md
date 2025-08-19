@@ -13,7 +13,6 @@
 <li>🌏 I&#39;m living now in <strong>Delhi, India</strong></li>
 <li>🎮 Building a <strong>card battle game</strong> that’s strategic and fun.</li>
 <li>🤝 Happy to collaborate (especially if I can just pretend I helped).</li>
-<li>🎮 <strong>Learning SDL</strong> (because pixels won’t draw themselves).</li>
 <li>❓ Ask me about <strong>Nothing</strong>. (Seriously)</li>
 <li>🧠 Fun fact: Spiders are the only web designers that are happy when they get a bug. ◑﹏◐</li>
 </ul>
