@@ -9,7 +9,7 @@
 <h1 id="-about-me-">💫 About Me:</h1>
 <div>
 <ul>
-<li>📫 I&#39;m a 2nd year student at <strong>EIT, FARIDABAD</strong>.</li>
+<li>📫 I&#39;m a 2nd year student at <strong>EIT (GGSIPU), FARIDABAD</strong>.</li>
 <li>🌏 I&#39;m living now in <strong>Delhi, India</strong></li>
 <li>🎮 Building a <strong>card battle game</strong> that’s strategic and fun.</li>
 <li>🤝 Happy to collaborate (especially if I can just pretend I helped).</li>
