@@ -21,8 +21,8 @@
 <p><br><br></p>
 <h1 id="-connect-with-me-">🌐 Connect With ME:</h1>
 <div align="center">
-<p><a href="https://instagram.com/dumb.drixx"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" alt="Instagram"></a>.
-<a href="https://linkedin.com/in/daksh-verma-76b865372"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>.
+<p><a href="https://instagram.com/dumbdrixx"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" alt="Instagram"></a>.
+<a href="https://linkedin.com/in/daksh-vermaa"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>.
 <a href="https://reddit.com/user/Important_Draft5062"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&amp;logoColor=white" alt="Reddit"></a>.
 <a href="https://x.com/DakshVermaaaaa"><img src="https://img.shields.io/badge/X-black.svg?logo=X&amp;logoColor=white" alt="X"></a>.
 <a href="mailto:dakshr117@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&amp;logoColor=white" alt="email"></a> </p>
