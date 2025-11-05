@@ -11,7 +11,7 @@
 <ul>
 <li>📫 I&#39;m a 2nd year student at <strong>EIT (GGSIPU), FARIDABAD</strong>.</li>
 <li>🌏 I&#39;m living now in <strong>Delhi, India.</strong></li>
-<li>🚀 Currently sharpening my skills in strong>Software development</strong>.</li>
+<li>🚀 Currently sharpening my skills in <strong>Software development</strong>.</li>
 <li>💡 Always curious, always improving.</li>
 <li>🤝 Happy to collaborate (especially if I can just pretend I helped).</li>
 <li>🧠 Fun fact: Spiders are the only web designers that are happy when they get a bug. ◑﹏◐</li>
