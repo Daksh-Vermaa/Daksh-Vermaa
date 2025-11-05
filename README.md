@@ -10,8 +10,9 @@
 <div>
 <ul>
 <li>📫 I&#39;m a 2nd year student at <strong>EIT (GGSIPU), FARIDABAD</strong>.</li>
-<li>🌏 I&#39;m living now in <strong>Delhi, India</strong></li>
-<li>🎮 Building a <strong>card battle game</strong> that’s strategic and fun.</li>
+<li>🌏 I&#39;m living now in <strong>Delhi, India.</strong></li>
+<li>🚀 Currently sharpening my skills in strong>Software development</strong>.</li>
+<li>💡 Always curious, always improving.</li>
 <li>🤝 Happy to collaborate (especially if I can just pretend I helped).</li>
 <li>🧠 Fun fact: Spiders are the only web designers that are happy when they get a bug. ◑﹏◐</li>
 </ul>
@@ -24,7 +25,7 @@
 <p><a href="https://instagram.com/dumbdrixx"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" alt="Instagram"></a>.
 <a href="https://linkedin.com/in/daksh-vermaa"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>.
 <a href="https://leetcode.com/u/Daksh-Vermaa/"><img src="https://img.shields.io/badge/leetcode-%23FF4500.svg?logo=Leetcode&amp;logoColor=white" alt="Leetcode"></a>.
-<a href="https://x.com/DakshVermaaaaa"><img src="https://img.shields.io/badge/X-black.svg?logo=X&amp;logoColor=white" alt="X"></a>.
+<a href="https://x.com/Daksh_Vermaa"><img src="https://img.shields.io/badge/X-black.svg?logo=X&amp;logoColor=white" alt="X"></a>.
 <a href="mailto:dakshr117@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&amp;logoColor=white" alt="email"></a> </p>
     </div>
 
