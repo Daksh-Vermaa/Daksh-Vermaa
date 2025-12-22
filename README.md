@@ -17,8 +17,8 @@
 <h1 id="-about-me-">💫 About Me:</h1>
 <div>
 <ul>
-<li>📫 2nd year student at <strong>EIT (GGSIPU), FARIDABAD</strong>.</li>
-<li>🌏 Living now in <strong>Delhi, India.</strong></li>
+<li>📫 2nd year student at <strong>EIT (GGSIPU)./strong>.</li>
+<li>🌏 I Live in <strong>Delhi, India.</strong></li>
 <li>🚀 Currently sharpening my skills in <strong>Software development</strong>.</li>
 <li>💡 Always curious, always improving.</li>
 <li>🤝 Happy to collaborate (especially if I can just pretend I helped).</li>
@@ -66,12 +66,13 @@
 
 
 <h1 id="-github-trophies">🏆 GitHub Trophies</h1>
+<div align=center>
 <p><img src="https://github-profile-trophy.vercel.app/?username=Daksh-Vermaa&amp;theme=radical&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4" alt=""></p>
 <h3 id="-top-contributed-repo">🔝 Top Contributed Repo</h3>
 <p><img src="https://github-contributor-stats.vercel.app/api?username=Daksh-Vermaa&amp;limit=5&amp;theme=dark&amp;combine_all_yearly_contributions=true" alt=""></p>
 <hr>
 <p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Daksh-Vermaa&amp;icon=5&amp;color=1" alt=""></a></p>
-
+</div>
 
   
 
