@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-<img src="./assets/hello3.png" alt="image" height="300" width="700" style="border-radius: 200px;">
+<img src="./assets/hello3.png" alt="image" height="300" width="500" style="border-radius: 200px;">
 </h1 align="center">
 
 
