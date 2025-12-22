@@ -53,7 +53,7 @@
 
   <hr>
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daksh-vermaa&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daksh-Vermaa&theme=dracula)
 
 <hr>
 
