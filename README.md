@@ -63,6 +63,24 @@
 <p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Daksh-Vermaa&amp;icon=5&amp;color=1" alt=""></a></p>
 
 
+<div align="center" >
+<a  href="https://github.com/Daksh-Vermaa">
+
+<img src="https://raw.githubusercontent.com/Daksh-Vermaa/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/Daksh-Vermaa/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/Daksh-Vermaa/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+
+</a>
+
+<details>
+  <summary>More stats</summary>
+  
+<img align="center" src="https://raw.githubusercontent.com/Daksh-Vermaa/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+
+</details>
+  
+
+
 <h1 id="Contributions">🐍 My Contributions</h1>
 
 ![snake gif](https://github.com/Daksh-Vermaa/Daksh-Vermaa/blob/output/github-snake-dark.svg)
