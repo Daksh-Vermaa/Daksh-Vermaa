@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Daksh Vermaa | GitHub Profile</title>
+  <!-- Daksh Vermaa | GitHub Profile -->
 </head>
 
 <body>
@@ -95,28 +95,22 @@
       src="https://github-readme-stats.vercel.app/api?username=Daksh-Vermaa&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en"
       alt="GitHub Stats"
     />
-
     <img
       width="390"
       src="https://github-readme-streak-stats.herokuapp.com/?user=Daksh-Vermaa&theme=transparent&count_private=true&border_radius=10&locale=en"
       alt="GitHub Streak"
     />
-
     <img
       width="325"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=Daksh-Vermaa&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en"
       alt="Top Languages"
     />
-
     <hr />
-
     <img
       src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daksh-Vermaa&theme=dracula"
       alt="Profile Summary"
     />
-
     <hr />
-
     <img
       src="https://leetcard.jacoblin.cool/Daksh-Vermaa?theme=nord&font=Frank%20Ruhl%20Libre"
       alt="LeetCode Stats"
@@ -132,16 +126,12 @@
       src="https://github-profile-trophy.vercel.app/?username=Daksh-Vermaa&theme=radical&no-frame=false&no-bg=false&margin-w=4"
       alt="GitHub Trophies"
     />
-
     <h3 id="top-contributed-repo">🔝 Top Contributed Repo</h3>
-
     <img
       src="https://github-contributor-stats.vercel.app/api?username=Daksh-Vermaa&limit=5&theme=dark&combine_all_yearly_contributions=true"
       alt="Top Contributions"
     />
-
     <hr />
-
     <a href="https://visitcount.itsvg.in">
       <img
         src="https://visitcount.itsvg.in/api?id=Daksh-Vermaa&icon=5&color=1"
