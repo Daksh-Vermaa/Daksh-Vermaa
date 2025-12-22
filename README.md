@@ -4,6 +4,9 @@
 <h1 align="center">
 <img src="./assets/hello3.png" alt="image" height="300" width="500" style="border-radius: 200px;">
 </h1 align="center">
+<h1 align="center">
+<img src="./assets/cartoon.gif" alt="image" height="300" width="500" style="border-radius: 200px;">
+</h1 align="center">
 
 
 <h1 id="-about-me-">💫 About Me:</h1>
