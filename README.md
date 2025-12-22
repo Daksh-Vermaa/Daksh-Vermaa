@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-<img src="./assets/hello.png" alt="image"  />
+<img src="./assets/hello.jpg" alt="image" height="500px" widhth="250px" />
 </h1 align="center">
 
 
