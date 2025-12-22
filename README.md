@@ -57,7 +57,7 @@
 
 <hr>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Daksh-Vermaa?theme=nord&font=Dangrek)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Daksh-Vermaa?theme=nord&font=Frank%20Ruhl%20Libre)
 
 
 </div>
