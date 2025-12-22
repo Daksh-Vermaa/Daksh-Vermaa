@@ -75,7 +75,8 @@
 <details>
   <summary>More stats</summary>
   
-<img align="center" src="https://raw.githubusercontent.com/Daksh-Vermaa/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daksh-vermaa&theme=dracula)
+
 
 </details>
   
