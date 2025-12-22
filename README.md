@@ -4,9 +4,14 @@
 <h1 align="center">
 <img src="./assets/hello.png" alt="image" height="180" width="" style="border-radius: 200px;">
 </h1 align="center">
-<h1 align="center">
-<img src="./assets/cartoon.gif" alt="image" height="300" width="500" style="border-radius: 200px;">
-</h1 align="center">
+
+
+<h1 id="-tech-stack-">💻 Tech Stack:</h1>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,powershell,vercel" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,python,javascript,bash,notion" /><br>
+</div>
+
 
 
 <h1 id="-about-me-">💫 About Me:</h1>
@@ -25,19 +30,15 @@
 <p><br><br></p>
 <h1 id="-connect-with-me-">🌐 Connect With ME:</h1>
 <div align="center">
-<p><a href="https://instagram.com/dumbdrixx"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" alt="Instagram"></a>.
-<a href="https://linkedin.com/in/daksh-vermaa"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>.
-<a href="https://leetcode.com/u/Daksh-Vermaa/"><img src="https://img.shields.io/badge/leetcode-%23FF4500.svg?logo=Leetcode&amp;logoColor=white" alt="Leetcode"></a>.
-<a href="https://x.com/Daksh_Vermaa"><img src="https://img.shields.io/badge/X-black.svg?logo=X&amp;logoColor=white" alt="X"></a>.
-<a href="mailto:dakshr117@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&amp;logoColor=white" alt="email"></a> </p>
+<p><a href="https://instagram.com/dumbdrixx"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"></a>.
+<a href="https://linkedin.com/in/daksh-vermaa"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>.
+<a href="https://leetcode.com/u/Daksh-Vermaa/"><img src="https://skillicons.dev/icons?i=leetcode" alt="Leetcode"></a>.
+<a href="https://x.com/Daksh_Vermaa"><img src="https://skillicons.dev/icons?i=X" alt="X"></a>.
+<a href="mailto:dakshr117@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="email"></a> </p>
     </div>
 
 
-<h1 id="-tech-stack-">💻 Tech Stack:</h1>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,powershell" /><br>
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,python,javascript,bash" /><br>
-</div>
+
 
 
   
