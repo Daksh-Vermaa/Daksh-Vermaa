@@ -1,87 +1,167 @@
-<p><img align="right" src="https://komarev.com/ghpvc/?username=Daksh-Vermaa&color=blue&style=plastic" /></p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Daksh Vermaa | GitHub Profile</title>
+</head>
 
+<body>
 
-<h1 align="center">
-<img src="./assets/hello.png" alt="image" height="180" width="" style="border-radius: 200px;">
-</h1 align="center">
+  <!-- Profile Views -->
+  <p align="right">
+    <img
+      src="https://komarev.com/ghpvc/?username=Daksh-Vermaa&color=blue&style=plastic"
+      alt="profile views"
+    />
+  </p>
 
+  <!-- Header Image -->
+  <h1 align="center">
+    <img
+      src="./assets/hello.png"
+      alt="hello image"
+      height="180"
+      style="border-radius: 200px;"
+    />
+  </h1>
 
-<h1 id="-tech-stack-">💻 Tech Stack:</h1>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,powershell,vercel" /><br>
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,python,javascript,bash,notion" /><br>
-</div>
+  <!-- Tech Stack -->
+  <h1 id="tech-stack">💻 Tech Stack:</h1>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,powershell,vercel" alt="tech stack 1" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,python,javascript,bash,notion" alt="tech stack 2" />
+  </div>
 
+  <!-- About Me -->
+  <h1 id="about-me">💫 About Me:</h1>
+  <div>
+    <ul>
+      <li>📫 2nd year student at <strong>EIT (GGSIPU)</strong>.</li>
+      <li>🌏 I live in <strong>Delhi, India</strong>.</li>
+      <li>🚀 Currently sharpening my skills in <strong>Software Development</strong>.</li>
+      <li>💡 Always curious, always improving.</li>
+      <li>🤝 Happy to collaborate (especially if I can just pretend I helped).</li>
+      <li>
+        🧠 <strong>Fun fact:</strong> Spiders are the only web designers that are
+        happy when they get a bug. ◑﹏◐
+      </li>
+    </ul>
+  </div>
 
+  <br /><br />
 
-<h1 id="-about-me-">💫 About Me:</h1>
-<div>
-<ul>
-<li>📫 2nd year student at <strong>EIT (GGSIPU)./strong>.</li>
-<li>🌏 I Live in <strong>Delhi, India.</strong></li>
-<li>🚀 Currently sharpening my skills in <strong>Software development</strong>.</li>
-<li>💡 Always curious, always improving.</li>
-<li>🤝 Happy to collaborate (especially if I can just pretend I helped).</li>
-<li>🧠 <strong>Fun fact:</strong> Spiders are the only web designers that are happy when they get a bug. ◑﹏◐</li>
-</ul>
-    </div>
+  <!-- Connect With Me -->
+  <h1 id="connect">🌐 Connect With Me:</h1>
+  <div align="center">
+    <p>
+      <a href="https://instagram.com/dumbdrixx" target="_blank">
+        <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+      </a>
+      &nbsp;
+      <a href="https://linkedin.com/in/daksh-vermaa" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+      </a>
+      &nbsp;
+      <a href="https://leetcode.com/u/Daksh-Vermaa/" target="_blank">
+        <img
+          src="https://img.shields.io/badge/leetcode-%23E4405F.svg?logo=leetcode&logoColor=white"
+          alt="LeetCode"
+        />
+      </a>
+      &nbsp;
+      <a href="https://x.com/Daksh_Vermaa" target="_blank">
+        <img
+          src="https://img.shields.io/badge/-black.svg?logo=X&logoColor=white"
+          alt="X"
+        />
+      </a>
+      &nbsp;
+      <a href="mailto:dakshr117@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+      </a>
+    </p>
+  </div>
 
-    
-<p><br><br></p>
-<h1 id="-connect-with-me-">🌐 Connect With ME:</h1>
-<div align="center">
-<p><a href="https://instagram.com/dumbdrixx"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"></a>.
-<a href="https://linkedin.com/in/daksh-vermaa"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>.
-<a href="https://leetcode.com/u/Daksh-Vermaa/"><img src="https://img.shields.io/badge/leetcode-%23E4405F.svg?logo=leetcode&logoColor=white"></a>.
-<a href="https://x.com/Daksh_Vermaa"><img src="https://img.shields.io/badge/-black.svg?logo=X&logoColor=white" alt="X"></a>.
-<a href="mailto:dakshr117@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="email"></a> </p>
-    </div>
+  <hr />
 
+  <!-- Stats -->
+  <h1 id="stats">⚡️ Stats</h1>
+  <br />
 
+  <div align="center">
+    <img
+      width="390"
+      src="https://github-readme-stats.vercel.app/api?username=Daksh-Vermaa&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en"
+      alt="GitHub Stats"
+    />
 
+    <img
+      width="390"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Daksh-Vermaa&theme=transparent&count_private=true&border_radius=10&locale=en"
+      alt="GitHub Streak"
+    />
 
+    <img
+      width="325"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=Daksh-Vermaa&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en"
+      alt="Top Languages"
+    />
 
-  
-<h1 id="Stats">⚡️ Stats</h1>
+    <hr />
 
-<br>
+    <img
+      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daksh-Vermaa&theme=dracula"
+      alt="Profile Summary"
+    />
 
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Daksh-Vermaa&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Daksh-Vermaa's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Daksh-Vermaa&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Daksh-Vermaa's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Daksh-Vermaa&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Daksh-Vermaa's Most Used Languages" />
+    <hr />
 
-  <hr>
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daksh-Vermaa&theme=dracula)
+    <img
+      src="https://leetcard.jacoblin.cool/Daksh-Vermaa?theme=nord&font=Frank%20Ruhl%20Libre"
+      alt="LeetCode Stats"
+    />
+  </div>
 
-<hr>
+  <hr />
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Daksh-Vermaa?theme=nord&font=Frank%20Ruhl%20Libre)
+  <!-- Trophies -->
+  <h1 id="github-trophies">🏆 GitHub Trophies</h1>
+  <div align="center">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=Daksh-Vermaa&theme=radical&no-frame=false&no-bg=false&margin-w=4"
+      alt="GitHub Trophies"
+    />
 
+    <h3 id="top-contributed-repo">🔝 Top Contributed Repo</h3>
 
-</div>
-<hr>
+    <img
+      src="https://github-contributor-stats.vercel.app/api?username=Daksh-Vermaa&limit=5&theme=dark&combine_all_yearly_contributions=true"
+      alt="Top Contributions"
+    />
 
+    <hr />
 
+    <a href="https://visitcount.itsvg.in">
+      <img
+        src="https://visitcount.itsvg.in/api?id=Daksh-Vermaa&icon=5&color=1"
+        alt="Visitor Count"
+      />
+    </a>
+  </div>
 
-<h1 id="-github-trophies">🏆 GitHub Trophies</h1>
-<div align=center>
-<p><img src="https://github-profile-trophy.vercel.app/?username=Daksh-Vermaa&amp;theme=radical&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4" alt=""></p>
-<h3 id="-top-contributed-repo">🔝 Top Contributed Repo</h3>
-<p><img src="https://github-contributor-stats.vercel.app/api?username=Daksh-Vermaa&amp;limit=5&amp;theme=dark&amp;combine_all_yearly_contributions=true" alt=""></p>
-<hr>
-<p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Daksh-Vermaa&amp;icon=5&amp;color=1" alt=""></a></p>
-</div>
+  <hr />
 
-  
+  <!-- Contributions -->
+  <h1 id="contributions">🐍 My Contributions</h1>
+  <img
+    src="https://github.com/Daksh-Vermaa/Daksh-Vermaa/blob/output/github-snake-dark.svg"
+    alt="GitHub Snake Animation"
+  />
 
+  <hr />
 
-<h1 id="Contributions">🐍 My Contributions</h1>
+  <p><em>Updated - 2025-Dec-23</em></p>
 
-![snake gif](https://github.com/Daksh-Vermaa/Daksh-Vermaa/blob/output/github-snake-dark.svg)
-
-<hr>
-
-
-*Updated - 2025-Sep-19*
+</body>
+</html>
