@@ -32,8 +32,8 @@
 <div align="center">
 <p><a href="https://instagram.com/dumbdrixx"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"></a>.
 <a href="https://linkedin.com/in/daksh-vermaa"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>.
-<a href="https://leetcode.com/u/Daksh-Vermaa/"><img src="https://skillicons.dev/icons?i=leetcode" alt="Leetcode"></a>.
-<a href="https://x.com/Daksh_Vermaa"><img src="https://skillicons.dev/icons?i=X" alt="X"></a>.
+<a href="https://leetcode.com/u/Daksh-Vermaa/"><img src="https://img.shields.io/badge/leetcode-%23E4405F.svg?logo=leetcode&logoColor=white"></a>.
+<a href="https://x.com/Daksh_Vermaa"><img src="https://img.shields.io/badge/-black.svg?logo=X&logoColor=white" alt="X"></a>.
 <a href="mailto:dakshr117@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="email"></a> </p>
     </div>
 
