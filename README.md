@@ -55,6 +55,11 @@
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daksh-vermaa&theme=dracula)
 
+<hr>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Daksh-Vermaa?theme=nord&font=Dangrek)
+
+
 </div>
 <hr>
 
