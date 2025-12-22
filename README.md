@@ -105,6 +105,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs?username=Daksh-Vermaa&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en"
       alt="Top Languages"
     />
+    <br>
     <img
       src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daksh-Vermaa&theme=dracula"
       alt="Profile Summary"
