@@ -120,14 +120,25 @@
   <hr />
 
   <!-- Trophies -->
- <h1 id="-github-trophies">🏆 GitHub Trophies</h1>
-<div align=center>
-<p><img src="https://github-profile-trophy.vercel.app/?username=Daksh-Vermaa&amp;theme=radical&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4" alt=""></p>
-<h3 id="-top-contributed-repo">🔝 Top Contributed Repo</h3>
-<p><img src="https://github-contributor-stats.vercel.app/api?username=Daksh-Vermaa&amp;limit=5&amp;theme=dark&amp;combine_all_yearly_contributions=true" alt=""></p>
-<hr>
-<p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Daksh-Vermaa&amp;icon=5&amp;color=1" alt=""></a></p>
-</div>
+  <h1 id="github-trophies">🏆 GitHub Trophies</h1>
+  <div align="center">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=Daksh-Vermaa&theme=radical&no-frame=false&no-bg=false&margin-w=4"
+      alt="GitHub Trophies"
+    />
+    <h3 id="top-contributed-repo">🔝 Top Contributed Repo</h3>
+    <img
+      src="https://github-contributor-stats.vercel.app/api?username=Daksh-Vermaa&limit=5&theme=dark&combine_all_yearly_contributions=true"
+      alt="Top Contributions"
+    />
+    <hr />
+    <a href="https://visitcount.itsvg.in">
+      <img
+        src="https://visitcount.itsvg.in/api?id=Daksh-Vermaa&icon=5&color=1"
+        alt="Visitor Count"
+      />
+    </a>
+  </div>
 
   <hr />
 
