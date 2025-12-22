@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-<img src="/Daksh-Vermaa/assets/hello.png" />
+<img src="./assets/hello.png" alt="image"  />
 </h1 align="center">
 
 
