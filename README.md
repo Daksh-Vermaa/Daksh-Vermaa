@@ -50,13 +50,13 @@
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Daksh-Vermaa&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Daksh-Vermaa's GitHub Stats" />
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Daksh-Vermaa&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Daksh-Vermaa's" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Daksh-Vermaa&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Daksh-Vermaa's Most Used Languages" />
-</div>
-<hr>
-<details>
+  <details>
   <summary>More stats</summary>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daksh-vermaa&theme=dracula)
 </details>
+</div>
 <hr>
+
 
 
 <h1 id="-github-trophies">🏆 GitHub Trophies</h1>
