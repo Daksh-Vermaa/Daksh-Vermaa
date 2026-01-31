@@ -7,14 +7,6 @@
 
 <body>
 
-  <!-- Profile Views -->
-  <p align="right">
-    <img
-      src="https://komarev.com/ghpvc/?username=Daksh-Vermaa&color=blue&style=plastic"
-      alt="profile views"
-    />
-  </p>
-
   <!-- Header Image -->
   <h1 align="center">
     <img
