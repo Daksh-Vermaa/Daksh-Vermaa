@@ -107,6 +107,7 @@
       src="https://leetcard.jacoblin.cool/Daksh-Vermaa?theme=nord&font=Frank%20Ruhl%20Libre"
       alt="LeetCode Stats"
     />
+      <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=true">    <img  alt="Daksh-Vermaa's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Daksh-Vermaa?cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=true" />  </a>
   </div>
 
   <hr />
