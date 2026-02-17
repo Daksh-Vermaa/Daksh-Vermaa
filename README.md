@@ -1,5 +1,5 @@
-# 👋 Hey, I'm Daksh Vermaa!
-
+ -->
+ 
 <div align="center">
   <img src="./assets/hello.png" alt="hello image" height="200" style="border-radius: 50%; border: 3px solid #667eea;" />
 </div>
